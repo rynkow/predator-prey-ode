@@ -42,7 +42,7 @@ def F(u, h):
     # 1th order Runge Kutta method - not effective
     # return f(u)
 
-    # 4th order Runge Kutta method
+    # 2th order Runge Kutta method
     k1 = f(u)
     k2 = f(u + h*k1)
 
