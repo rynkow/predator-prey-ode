@@ -37,4 +37,5 @@ d - predator mortality rate <br>
 ODE are solved  using the Runge Kutta 2nd order method.
 
 ## Result
-
+![image](screenshots/prey-predator-screenshot.PNG)
+![image](screenshots/prey-predator-screenshot_2.PNG)
